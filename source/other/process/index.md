@@ -36,3 +36,9 @@ title: 内容建设日志
 | 衍生/社群 | 粉丝圈             |        |
 | 商品&周边 | 官方商品&特典      |        |
 | 商品&周边 | 第三方周边         |        |
+
+---
+
+{% calendar %}
+{"monthLang": "cn", "dayLang": "cn", "title": "活动日历"}
+{% endcalendar %}
