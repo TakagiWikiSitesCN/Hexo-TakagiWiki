@@ -1,6 +1,6 @@
 ---
 date: ''
-banner_img: https://pic.mufeng086.com/i/2023/05/08/64588c2dc76db.jpg
+banner_img: /site_images/banner/music.jpg
 layout: music
 title: 音乐
 updated: Sat, 25 Feb 2023 09:49:23 GMT
@@ -19,7 +19,7 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 |「からかい上手の高木さん」Cover Song Collection|「からかい上手の高木さん2」Cover Song Collection|「からかい上手の高木さん3 & 劇場版」Cover Song Collection|
 |:--|:--|:--|
 |动画第一季翻唱盘|动画第二季翻唱盘|动画第三季&剧场版翻唱盘|
-|![24cacc3a5f29a04252c54a30b26c4d4c.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c25365c1.jpg)|![4de98b782902941c9d99c0aa74dc13ee.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c237e760.jpg)|![2aee53781995b1a20858f530292cd39a.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c21f2ed6.jpg)|
+|![](/site_images/music/ed-s1.jpg)|![4de98b782902941c9d99c0aa74dc13ee.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c237e760.jpg)|![2aee53781995b1a20858f530292cd39a.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c21f2ed6.jpg)|
 <br/>
 曲目表：
 
