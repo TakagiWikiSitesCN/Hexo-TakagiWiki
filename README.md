@@ -2,7 +2,7 @@
 
 **（擅长捉弄的高木同学 自建资料站）**
 
-基于静态博客搭建的《擅长捉弄的高木同学》相关信息资料站
+基于静态博客搭建的《擅长捉弄的高木同学》相关信息资料站。仓库实际所有人、资料站站长&运维：[@轻虹空雨](https://mufeng086.com)
 
 本仓库内容基于Hexo部署，Vuepress部署项目（[@一只鬆](https://github.com/yzsong06)）：https://github.com/yzsong06/TakagiWikiSiteCNVue
 
