@@ -23,7 +23,7 @@ updated: Sat, 25 Feb 2023 09:49:24 GMT
 
 
 ---
-本站部分内容参考 <img src="/public/site_images/site_icon/Fandom.png" alt="60px-Fandom_fire_logo.svg.png" border="0" width="15" /> Fandom社区 [擅长捉弄的高木同学](
+本站部分内容参考 <img src="https://pic.imgdb.cn/item/647c966d1ddac507cc4793c2.png" alt="60px-Fandom_fire_logo.svg.png" border="0" width="15" /> Fandom社区 [擅长捉弄的高木同学](
 https://karakai-jouzu-no-takagi-san.fandom.com/zh/wiki/擅长捉弄的高木同学) 中的相关文章（基于 [CC-BY-SA](https://www.fandom.com/zh/licensing-zh) 许可协议）
 
-本站采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。![BY-NC-SA-normal.png](/public/site_images/site_icon/CC4.0-BY-NC-SA)
+本站采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。![BY-NC-SA-normal.png](https://pic.imgdb.cn/item/647c966d1ddac507cc4793e5.png)
