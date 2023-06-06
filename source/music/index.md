@@ -305,3 +305,7 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 |クリスマス·イブ|平安夜|山下达郎|
 |大阪Lover|大阪情人|DREAMS COME TRUE|
 
+---
+
+<a href="https://github.com/TakagiWikiSitesCN/Hexo-TakagiWiki/blob/master/source/music/index.md">在 <i class="icon-github-fill iconfont"></i> Github 编辑此页</a>
+最近编辑时间：2023年6月3日
