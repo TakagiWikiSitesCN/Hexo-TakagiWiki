@@ -19,7 +19,7 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 |「からかい上手の高木さん」Cover Song Collection|「からかい上手の高木さん2」Cover Song Collection|「からかい上手の高木さん3 & 劇場版」Cover Song Collection|
 |:--|:--|:--|
 |动画第一季翻唱盘|动画第二季翻唱盘|动画第三季&剧场版翻唱盘|
-|![](/site_images/music/ed-s1.jpg)|![4de98b782902941c9d99c0aa74dc13ee.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c237e760.jpg)|![2aee53781995b1a20858f530292cd39a.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c21f2ed6.jpg)|
+|![](/site_images/music/ed-s1.jpg)|![](/site_images/music/ed-s2.jpg)|![](/site_images/music/ed-s3&movie.jpg)|
 <br/>
 曲目表：
 
@@ -67,7 +67,7 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 |言わないけどね。(アニメ盤)|ゼロセンチメートル(アニメ盤)|Island Memories|
 |:--|:--|:--|
 |虽然不会说出口。（动画盘）（第一季）|零厘米（动画盘）（第二季）|Island Memories（第三季&剧场版）|
-|![306c82696d739ec74f1d8780b9df8713.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c2a4fa54.jpg)|![af20e3779cbbaad0125637f8feb907f5.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c2bd5ea6.jpg)|![S3movie-origin-album.jpg](https://pic.mufeng086.com/i/2023/05/08/64588d221f02c.jpg)|
+|![](/site_images/music/op-s1.jpg)|![](/site_images/music/op-s2.jpg)|![](/site_images/music/op-s3&movie.jpg)|
 <br/>
 曲目表：
 
@@ -96,7 +96,7 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 |「からかい上手の高木さん」Music Collection|「からかい上手の高木さん2」Music Collection|「からかい上手の高木さん3」Music Collection|劇場版『からかい上手の高木さん』Music Collection|
 |:--|:--|:--|:--|
 |动画第一季原声带|动画第二季原声带|动画第三季原声带|剧场版原声带|
-|![bb11eb0b942f3bd1f31318ba6ad374b7.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c26bb5a6.jpg)|![dd789966ea5900ace097a35c2cf30cd3.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c21e0e6c.jpg)|![5ff4b92e662b977c14ad3e058fcb5fe2.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c250fe2d.jpg)|![176a6c7ca8b47d4493a96f12deea048d.jpg](https://pic.mufeng086.com/i/2023/05/08/64588c2616f4b.jpg)|
+|![](/site_images/music/ost-s1.jpg)|![](/site_images/music/ost-s2.jpg)|![](/site_images/music/ost-s3.jpg)|![](/site_images/music/ost-movie.jpg)|
 <br/>
 
 **（第三季与剧场版OST实体光碟尚未发售，此为网络配信版专辑封面）**
@@ -308,4 +308,4 @@ updated: Sat, 25 Feb 2023 09:49:23 GMT
 ---
 
 <a href="https://github.com/TakagiWikiSitesCN/Hexo-TakagiWiki/blob/master/source/music/index.md">在 <i class="icon-github-fill iconfont"></i> Github 编辑此页</a>
-最近编辑时间：2023年6月3日
+最近编辑时间：2023年6月6日 11:12
