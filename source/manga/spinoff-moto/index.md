@@ -5,7 +5,7 @@ layout: manga
 title: 衍生-原高木同学
 updated: Sat, 25 Feb 2023 08:03:09 GMT
 ---
-《擅长捉弄的（原）高木同学》（《からかい上手の（元）高木さん》），是由日本漫画作者稲葉光史创作的基于漫画[《擅长捉弄的高木同学》](https://tkgsite.mufeng086.top/manga/takagi-og/)的衍生漫画作品。讲述了原作主人公高木同学、西片，在未来结婚成家后与两人生下的女儿小千之间的家庭日常故事。
+《擅长捉弄的（原）高木同学》（《からかい上手の（元）高木さん》），是由日本漫画作者稲葉光史创作的基于漫画[《擅长捉弄的高木同学》](https://wiki.takagi3.cn/manga/takagi-og/)的衍生漫画作品。讲述了原作主人公高木同学、西片，在未来结婚成家后与两人生下的女儿小千之间的家庭日常故事。
 
 2017年，原作漫画刊载杂志《月刊少年Sunday》举办一场名为“高木同学杯”（高木さん杯）的企划，主要内容是招募基于该作品题材而创作的衍生漫画并基于优秀作品以相应支持。在本次活动中，《擅长捉弄的（原）高木同学》为被选拔出的两部作品之一，之后便顺利开启了作品连载。
 
@@ -19,7 +19,7 @@ updated: Sat, 25 Feb 2023 08:03:09 GMT
 
 | 作者推特-章节彩图（2023.5.31）                                | 日版最新单行本-18卷                                          | 台版最新单行本-10卷                                          |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|[![FxadsGhaEAAwGPPee9101dae35dcec6.md.jpg](https://picture-takagi.oss-cn-zhangjiakou.aliyuncs.com/2023/05/31/FxadsGhaEAAwGPPee9101dae35dcec6.md.jpg)](http://shareimg.takagi3.cn/image/z4Yi)|![sale-jp-vol18.jpg](https://pic.mufeng086.com/i/2023/05/08/64588d23c543d.jpg)|![sale-tw-vol-10.jpg](https://pic.mufeng086.com/i/2023/05/25/646eff56bd1b7.jpg)|
+|[![FxadsGhaEAAwGPPee9101dae35dcec6.md.jpg](https://picture-takagi.oss-cn-zhangjiakou.aliyuncs.com/2023/05/31/FxadsGhaEAAwGPPee9101dae35dcec6.md.jpg)](http://shareimg.takagi3.cn/image/z4Yi)|![sale-jp-vol18.jpg](/site_images/spinoff-moto/sale-jp-vol18.jpg)|![sale-tw-vol-10.jpg](/site_images/spinoff-moto/sale-tw-vol10.jpg)|
 
 **[ ! ] 下表内数据存在目前无法解决的缺失、错位、错误等问题，后续适时会尝试解决，敬请谅解。
 中文译名基于日文主题、漫画剧情理解而选定，可能有所偏差。**
@@ -306,3 +306,8 @@ updated: Sat, 25 Feb 2023 08:03:09 GMT
 |276|昔の写真|过去的照片|过去的照片|2023.5.17 上午 12:00:00|
 |277|入れ替わり|互换|互换|2023.5.24 上午 12:00:00|
 |278|ドーナツ|甜甜圈|甜甜圈|2023.5.31 上午 12:00:00|
+
+---
+
+<a href="https://github.com/TakagiWikiSitesCN/Hexo-TakagiWiki/blob/master/source/manga/spinoff-moto/index.md">在 <i class="icon-github iconfont"></i> Github 编辑此页</a>
+最近编辑时间：2023年6月6日 11:00
