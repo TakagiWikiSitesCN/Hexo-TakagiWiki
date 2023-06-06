@@ -11,25 +11,7 @@
   </url>
   
   <url>
-    <loc>https://tkgsite.mufeng086.top/music/index.html</loc>
-    
-    <lastmod>2023-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://tkgsite.mufeng086.top/anime/s1/index.html</loc>
-    
-    <lastmod>2023-06-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tkgsite.mufeng086.top/manga/spinoff-moto/index.html</loc>
     
     <lastmod>2023-06-03</lastmod>
     
@@ -164,7 +146,25 @@
   </url>
   
   <url>
+    <loc>https://tkgsite.mufeng086.top/music/index.html</loc>
+    
+    <lastmod>2023-02-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tkgsite.mufeng086.top/roles/index.html</loc>
+    
+    <lastmod>2023-02-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://tkgsite.mufeng086.top/manga/spinoff-moto/index.html</loc>
     
     <lastmod>2023-02-25</lastmod>
     
@@ -175,7 +175,7 @@
 
   <url>
     <loc>https://tkgsite.mufeng086.top/</loc>
-    <lastmod>2023-06-05</lastmod>
+    <lastmod>2023-06-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
