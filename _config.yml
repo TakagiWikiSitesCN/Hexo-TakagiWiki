@@ -105,5 +105,3 @@ deploy:
   type: git
   repository: git@github.com:MuFeng086/Hexo-TakagiWikiPage.git
   branch: main
-
-all_minifier: true
